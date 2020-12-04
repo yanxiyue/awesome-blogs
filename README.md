@@ -1,2 +1,2 @@
-# awesome-blogs
+# Awesome Blogs
 An inspiring list of blogs
