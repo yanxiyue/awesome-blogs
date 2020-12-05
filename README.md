@@ -39,4 +39,6 @@
 - [Highway to Graphics - 知乎](https://www.zhihu.com/column/highwaytographics)  
 **叛逆者**，原名未知。图形学专家。
 
-
+## Related Repo
+- https://github.com/learn-anything/blogs
+- https://github.com/jkup/awesome-personal-blogs
