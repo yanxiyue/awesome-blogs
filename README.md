@@ -30,4 +30,13 @@
 - [scott.cgi](https://scottcgi.github.io/)  
 **scott.cgi**, 原名未知。主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量人文科技方面地阅读与写作。一直热爱编程，不忘初心，目前创业中。
 
+- [Milo的ex-Hippocampus](http://miloyip.com/)  & [Milo Yip - 博客园](https://www.cnblogs.com/miloyip/)  
+**Milo Yip**，原名**叶劲峰**。腾讯互娱游戏编程领域T4专家，曾在知乎有非常多高质量的回答，不过因为发表不当言论被封杀。
+
+- [龙泉寺扫地僧_CSDN博客](https://blog.csdn.net/weolar) & [盟主来了 - 知乎](https://www.zhihu.com/column/chrome)  
+**龙泉寺扫地僧**，原名未知。浏览器开发专家，对浏览器架构和实现细节感兴趣的，可以关注他及他的项目。
+
+- [Highway to Graphics - 知乎](https://www.zhihu.com/column/highwaytographics)  
+**叛逆者**，原名未知。图形学专家。
+
 
