@@ -42,6 +42,9 @@
 - [antirez](http://antirez.com/latest/0)  
 **Salvatore Sanfilippo**, also known as **antirez**, the original developer of Redis. 
 
+- [后端技术 by Tim Yang](https://timyang.net/)  
+**Tim Yang**，原名**杨卫华**。新浪微博首席架构师，在海量及峰值访问、大数据、NoSQL存储、异地机房分布式架构及开放平台等方面有丰富经验。
+
 ## Related Repo
 - https://github.com/learn-anything/blogs
 - https://github.com/jkup/awesome-personal-blogs
