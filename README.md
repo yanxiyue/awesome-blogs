@@ -48,6 +48,9 @@
 - [计算广告](https://www.zhihu.com/column/c_78909596)  
 **刘鹏**，网名**北冥乘海生**，自称**大数据仁波切**。一位涉猎广泛的计算广告大牛，他的[《计算广告》](https://u.jd.com/tgPcPfN)非常系统全面的讲清楚了广告商业变现的基础逻辑和初步实现的步骤方法，是程序化广告入门者必读物。
 
+ - [技术奇异点](https://techsingular.net)  
+ **冯东**，Adobe 程序员
+
 
 ## Related Repo
 - https://github.com/learn-anything/blogs
