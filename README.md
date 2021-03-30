@@ -50,6 +50,9 @@
 
  - [技术奇异点](https://techsingular.net)  
  **冯东**，Adobe 程序员
+ 
+ - [Paul Graham](http://paulgraham.com/)  
+ **Paul Graham**, 一个在美国互联网界如日中天的教父级人物，他的《黑客与画家》你一定看过。
 
 
 ## Related Repo
