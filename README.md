@@ -1,5 +1,5 @@
 # Awesome Blogs
-> An inspiring list of blogs, in no particular order.
+> An inspiring list of blogs, or person with individuality. in no particular order.
 
 ---
 - [Fabrice Bellard's Home Page](https://bellard.org/)  
@@ -53,6 +53,9 @@
  
  - [Paul Graham](http://paulgraham.com/)  
  **Paul Graham**, 一个在美国互联网界如日中天的教父级人物，他的《黑客与画家》你一定看过。
+
+- [Remixing艺术&科技-黑铁时代杂谈](https://www.zhihu.com/column/c_1276994955883040768)  
+**姚勇**, 水木年华原成员，作家王小波的外甥。玩音乐里最会编程的人，程序员里最懂音乐的人。代表作《QQ炫舞》。
 
 
 ## Related Repo
