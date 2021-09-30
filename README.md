@@ -57,6 +57,9 @@
 - [Remixing艺术&科技-黑铁时代杂谈](https://www.zhihu.com/column/c_1276994955883040768)  
 **姚勇**, 水木年华原成员，作家王小波的外甥。玩音乐里最会编程的人，程序员里最懂音乐的人。代表作《QQ炫舞》。
 
+- [Skywind Inside](http://www.skywind.me/blog/)  
+**韦易笑**，原名**林伟**，[KCP](https://github.com/skywind3000/kcp)作者，1992年（小学）开始写代码，至今乐此不彼，涉猎极广，尤其擅长高性能程序设计与实现。  
+
 
 ## Related Repo
 - https://github.com/learn-anything/blogs
