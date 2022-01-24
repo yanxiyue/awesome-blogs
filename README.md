@@ -60,6 +60,10 @@
 - [Skywind Inside](http://www.skywind.me/blog/)  
 **韦易笑**，原名**林伟**，[KCP](https://github.com/skywind3000/kcp)作者，1992年（小学）开始写代码，至今乐此不彼，涉猎极广，尤其擅长高性能程序设计与实现。  
 
+- [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php)  
+**John Ousterhout**, 老爷子是[Tcl](https://www.tcl.tk/)(Tool Command Language)语言发明人，斯坦福大学计算机系教授。他的《A PHILOSOPHY OF SOFTWARE DESIGN》非常值得一看。  
+
+
 
 ## Related Repo
 - https://github.com/learn-anything/blogs
