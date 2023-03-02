@@ -37,7 +37,7 @@
 **龙泉寺扫地僧**，原名**王斌**。浏览器开发专家，对浏览器架构和实现细节感兴趣的，可以关注他及他的项目。
 
 - [Highway to Graphics - 知乎](https://www.zhihu.com/column/highwaytographics)  
-**叛逆者**，原名未知。图形学专家。
+**叛逆者**，原名**龚敏敏**。图形学专家。
 
 - [antirez](http://antirez.com/latest/0)  
 **Salvatore Sanfilippo**, also known as **antirez**, the original developer of Redis. 
