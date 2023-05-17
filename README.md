@@ -22,7 +22,7 @@
 **惠新宸**，人称**鸟哥**，但并不是linux私房菜的鸟哥，而是php核心成员的鸟哥，目前是该组织唯一一位中国人，也是国内最具影响力的PHP技术专家。目前在贝壳找房任技术副总裁，负责贝壳·如视VR的研发和落地。
 
 - [CoolShell, 酷壳](http://CoolShell.cn)  
-**陈皓**，网名**左耳朵耗子**。知名博主，非常有个性的技术人，他在酷壳上记录了大量技术见闻、知识总结和个人想法，非常适合初学者浏览关注。他现在处于创业中，[MegaEase](https://megaease.com/)创始人。
+**陈皓**，网名**左耳朵耗子**。知名博主，非常有个性的技术人，他在酷壳上记录了大量技术见闻、知识总结和个人想法，非常适合初学者浏览关注。[MegaEase](https://megaease.com/)创始人。令人遗憾的是2023年5月13日晚上突发心梗离开了这个世界，R.I.P 🕯️🕯️🕯️
 
 - [rednaxelafx - iteye](https://www.iteye.com/blog/user/rednaxelafx) & [RednaxelaFX - 知乎](https://www.zhihu.com/people/rednaxelafx)  
 **莫枢**，花名**撒迦**，常用网名**RednaxelaFX**， 取自Alexander逆序。对编译器和虚拟机研究非常深入，对JVM感兴趣的同学可以多看看他的博客和回答。
