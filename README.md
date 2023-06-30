@@ -63,6 +63,8 @@
 - [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php)  
 **John Ousterhout**, 老爷子是[Tcl](https://www.tcl.tk/)(Tool Command Language)语言发明人，斯坦福大学计算机系教授。他的《A PHILOSOPHY OF SOFTWARE DESIGN》非常值得一看。  
 
+- [Phodal - 狼和凤凰 | Growth Engineer](https://www.phodal.com/)  
+**黄峰达（Phodal）**，Thoughtworks 中国区开源负责人，是一个极客、创作者和作者。著有《前端架构：从入门到微前端》、《自己动手设计物联网》、《全栈应用开发：精益实践》，译有两本物联网相关书籍。开坑，开到填不完的知名开源挖坑选手。
 
 
 ## Related Repo
