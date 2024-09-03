@@ -66,6 +66,10 @@
 - [Phodal - 狼和凤凰 | Growth Engineer](https://www.phodal.com/blog/)  
 **黄峰达（Phodal）**，Thoughtworks 中国区开源负责人，是一个极客、创作者和作者。著有《前端架构：从入门到微前端》、《自己动手设计物联网》、《全栈应用开发：精益实践》，译有两本物联网相关书籍。开坑，开到填不完的知名开源挖坑选手。
 
+- [程序员小辉](https://www.xiaohui.com/)  
+**小辉**，2001年之前的程序员代表，想了解那个时代的同学可以看看他的博客，我在他的博客里发现了一张老照片，大家看看有认识的不：  
+![xh-xl-lh](https://www.xiaohui.com/imglib1/id3/xh_xl_lh.jpg)
+
 
 ## Related Repo
 - https://github.com/learn-anything/blogs
