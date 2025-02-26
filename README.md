@@ -70,6 +70,8 @@
 **小辉**，2001年之前的程序员代表，想了解那个时代的同学可以看看他的博客，我在他的博客里发现了一张老照片，大家看看有认识的不：  
 ![xh-xl-lh](https://www.xiaohui.com/imglib1/id3/xh_xl_lh.jpg)
 
+- [Andy Stewart](https://manateelazycat.github.io/index.html)  
+**Andy Stewart**, Linux, Emacs开源社区从业二十余载，前Deepin CTO、懒猫微服CEO
 
 ## Related Repo
 - https://github.com/learn-anything/blogs
